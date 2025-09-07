@@ -4,7 +4,7 @@ A modern, responsive blog application built with React and Vite, featuring beaut
 
 ## 🌐 Live Demo
 
-**[View Live Demo →](https://blog-app111.netlify.app/)**
+🔗 **Live Demo**: [https://blog-app111.netlify.app/](https://blog-app111.netlify.app/)
 
 ## ✨ Features
 
