@@ -2,6 +2,10 @@
 
 A modern, responsive blog application built with React and Vite, featuring beautiful UI design and smooth user experience. This blog showcases articles about Thai cuisine, travel experiences, and personal insights.
 
+## 🌐 Live Demo
+
+**[View Live Demo →](https://blog-app111.netlify.app/)**
+
 ## ✨ Features
 
 - **Modern UI Design**: Clean, gradient-based design with hover effects and animations
